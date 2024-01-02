@@ -10,3 +10,8 @@ The Servcies are
 * Department Service
 * Employee Service
 * Zikpin
+
+The Architecture of this Application
+![output_image](https://github.com/Anils117/EmployeesAndDepartments-Microservices/assets/83568202/5d772f41-2a61-48dd-98af-a04a222ba0ce)
+
+
